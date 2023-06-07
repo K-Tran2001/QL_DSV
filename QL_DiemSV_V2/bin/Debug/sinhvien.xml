@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <student maSV="003">
+    <tenSV>sinh vien 3</tenSV>
+    <gioiTinh>Nam</gioiTinh>
+    <ngaySinh>5/27/2022 8:17:59 AM</ngaySinh>
+    <dienThoai>123456</dienThoai>
+    <diaChi>an giang</diaChi>
+    <maLop>DH119TH</maLop>
+  </student>
+  <student maSV="004">
+    <tenSV>sinh vien 4</tenSV>
+    <gioiTinh>Nam</gioiTinh>
+    <ngaySinh>5/27/2022 8:18:16 AM</ngaySinh>
+    <dienThoai>251721</dienThoai>
+    <diaChi>Châu Thành</diaChi>
+    <maLop>DH19PM</maLop>
+  </student>
+</students>

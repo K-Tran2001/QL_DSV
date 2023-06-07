@@ -1,0 +1,9 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling c:\Users\Admin\source\repos\QL_DiemSV_V2\PowerCHM\PowerCHM.chm
+
+HHC5003: Error: Compilation failed while compiling Bo Cuc Giao Dien Chinh.mht.
+
+
+The following files were not compiled:
+Bo Cuc Giao Dien Chinh.mht

@@ -1,0 +1,26 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=PowerCHM.chm
+Contents file=PowerCHM.hhc
+Index file=PowerCHM.hhk
+Binary Index=Yes
+Full-text search=Yes
+Language=0x0409
+Title=PowerCHM
+Error log file=Errlog.txt
+Default Window=main
+
+[WINDOWS]
+main="PowerCHM","PowerCHM.hhc","PowerCHM.hhk","Bo Cuc Giao Dien Chinh.mht","",,,,,0x41520,240,0x184E,[262,184,762,584],,,,0,0,0,0
+
+[FILES]
+Bo Cuc Giao Dien Chinh.mht
+Cac Chuc Nang Phu.mht
+Dang Nhap _ Cau Hinh.mht
+QL Diem _Xuat Excel.mht
+QL Diem.mht
+QL Hoc Phan _Excel.mht
+QL Hoc Phan.mht
+QL Sinh Vien _XML.mht
+QL Sinh Vien.mht
+

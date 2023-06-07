@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataProviders>
+  <DataProvider ID="Public">
+    <Server>DESKTOP-KMNS09Q</Server>
+    <Database>QL_DiemSV</Database>
+    <User>sa</User>
+    <Pass>sql2014</Pass>
+  </DataProvider>
+</DataProviders>

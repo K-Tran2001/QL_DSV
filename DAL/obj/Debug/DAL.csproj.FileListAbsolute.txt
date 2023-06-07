@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\QL_DiemSV_V2\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\QL_DiemSV_V2\DAL\obj\Debug\DAL.Properties.Resources.resources
+C:\Users\Admin\source\repos\QL_DiemSV_V2\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QL_DiemSV_V2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache

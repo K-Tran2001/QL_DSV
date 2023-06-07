@@ -1,0 +1,12 @@
+Step 1: ch?y full script d? create 
+
+Step 2: nh?p thông tin v? database d? ti?n hành c?u hình
+
+Step 3: ti?n hành dang nh?p theo cácaccount trong table TAIKHOAN
+
+Luu ý: Mu?n ch?y các thao tác có liên quan d?n excal hay XML thì c?n d?i giá tr? cho bi?n
+filePath theo công th?c:
+
+Ðu?ng d?n d?n folder ch?a t?p tin project\QL_DiemSV_V2\QL_DiemSV_V2\bin\Debug\ten file
+vd:
+C:\Users\Admin\source\repos\QL_DiemSV_V2\QL_DiemSV_V2\bin\Debug\DataConfig.xml

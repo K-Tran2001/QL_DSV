@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\QL_DiemSV_V2\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\QL_DiemSV_V2\BLL\obj\Debug\BLL.Properties.Resources.resources
+C:\Users\Admin\source\repos\QL_DiemSV_V2\BLL\obj\Debug\BLL.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QL_DiemSV_V2\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
